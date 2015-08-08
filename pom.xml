@@ -7,7 +7,7 @@
 	<version>0.9</version>
 	<name>SolrTalk</name>
 	<description>Model library to facilitate communication with Solr servers using XML.</description>
-	<url>http://www.ceau.be/solrtalk.html</url>
+	<url>https://www.ceau.be/solrtalk.html</url>
 	<developers>
 		<developer>
 			<name>Marceau Dewilde</name>
