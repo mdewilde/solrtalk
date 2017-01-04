@@ -4,7 +4,7 @@
 	<packaging>jar</packaging>
 	<groupId>be.ceau</groupId>
 	<artifactId>solrtalk</artifactId>
-	<version>0.9</version>
+	<version>0.9.1</version>
 	<name>SolrTalk</name>
 	<description>Model library to facilitate communication with Solr servers using XML.</description>
 	<url>https://www.ceau.be/solrtalk.html</url>
@@ -17,7 +17,7 @@
 	<licenses>
 		<license>
 			<name>The Apache License, Version 2.0</name>
-			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
 		</license>
 	</licenses>
 	<scm>
